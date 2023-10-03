@@ -150,6 +150,8 @@ If we try to access window , node will split backthe error <br>
 
 and mostl likly our app will crash <br>
 
+there is a concept of global variables <br>
+
 
 
 
