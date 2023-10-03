@@ -104,9 +104,9 @@ in the above the angle bracket means that we are in the REPL <br>
 
 the first REPL things we have done is that we input our name and output it <br>
 
-so we can see we gonna write anything serious in here <br>
-\
+so we can see we not  gonna write anything serious in here <br>
 
+when it comes with serous application we need CLI executable 
 
 
 
