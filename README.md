@@ -135,6 +135,9 @@ source: https://johnsmilga.com/ <br>
 to keep in memory we ill create file in the above way <br>
 
 
+working with vanilla js application one has acces to window object <br>
+
+
 
 
 
