@@ -67,6 +67,10 @@ we can simply running our node app in the version it was built in and without an
 
 Unlike browsers where module are optional in node js we have access to module by default <br>
 
+and it is hard to imagine a node app without them <br>
+
+
+
 
 
 
