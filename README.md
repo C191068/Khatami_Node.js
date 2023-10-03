@@ -75,6 +75,13 @@ the general idea is exactly the same as ES6 module <br>
 
 that we use browser syntax is a bit different <br>
 
+![image](https://github.com/C191068/Khatami_Node.js/assets/89090776/0ee4033d-55de-4abf-ad95-e09564c5a470)
+
+there are two option to download one is 18LTS another is 20 current <br>
+
+For production app LTS is suggested which stands for Long term support <br>
+
+
 
 
 
