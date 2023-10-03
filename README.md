@@ -140,7 +140,11 @@ working with vanilla js application one has acces to window object <br>
 
 In the window object we can get a bunch of useful things <br>
 
-for example we can get a query selector <br>
+for example we can get a query selector so we can select a node <br>
+and can get built in fetch <br>
+
+but in node js there is no window because there is no browser <br>
+
 
 
 
