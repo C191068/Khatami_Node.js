@@ -108,7 +108,9 @@ so we can see we not  gonna write anything serious in here <br>
 
 when it comes with serous application we need CLI executable 
 
+![n3](https://github.com/C191068/Khatami_Node.js/assets/89090776/77c830a2-cc86-49c9-86dd-b2f9941be5ee)
 
+to exit the REPL we typed the above <br>
 
 
 
