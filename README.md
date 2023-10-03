@@ -39,7 +39,7 @@ there is no geo location, no fetch and all the other cool browser goodies   <br>
 
 Unlike browser apps that are interactive for example user clicks the button <br>
 
-
+or toggles the nav 
 
 
  
