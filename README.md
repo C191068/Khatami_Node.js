@@ -53,6 +53,8 @@ Another major fact about node it is based on version <br>
 
 unlike browser app which depend on user browser <br>
 
+our node app depends only on node js version <br>
+
 
 
 
