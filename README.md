@@ -69,7 +69,7 @@ Unlike browsers where module are optional in node js we have access to module by
 
 and it is hard to imagine a node app without them <br>
 
-
+Node js uses common js library for the module 
 
 
 
