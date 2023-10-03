@@ -104,6 +104,8 @@ in the above the angle bracket means that we are in the REPL <br>
 
 the first REPL things we have done is that we input our name and output it <br>
 
+so we can see we gonna write anything serious in here <br>
+\
 
 
 
