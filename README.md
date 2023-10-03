@@ -51,6 +51,10 @@ Info about our operating sytem respond to network quest just to name a few <br>
 
 Another major fact about node it is based on version <br>
 
+unlike browser app which depend on user browser <br>
+
+
+
 
  
 
