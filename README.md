@@ -35,7 +35,7 @@ exits in node , there is no browser , there is no DOM ( Document Object Model)  
 Document Object Model is a representation of the elements and data within a web document.<br>
 It encompasses the structure and content of the document on the web. The Document Object Model (DOM) serves as a programming interface designed for web documents
  
-there is no geo location, no fetch and all the other cool browser cookies  <br>
+there is no geo location, no fetch and all the other cool browser goodies   <br>
 
 
  
