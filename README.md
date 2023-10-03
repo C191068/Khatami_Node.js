@@ -43,6 +43,12 @@ or toggles the nav and that sort of things with node we built server side app <b
 
 our node app wil only consit of pure logic without graphical interface <br>
  In browsser app we use a bunch of cool things available on the window object  <br>
+but it si not avilabe at node <br>
+
+Unlike browser we can access file system <br>
+
+Info about our operating sytem respond to network quest just to name a few <br>
+
 
  
 
