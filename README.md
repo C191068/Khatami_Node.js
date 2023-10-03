@@ -88,6 +88,12 @@ For that we have two options <br>
 
 1. REPL = Read Eval Print Loop <br>
 
+2.CLI executable = which means running our app code in node <br>
+
+If i have to be perfectly honest REPL is for playing around <br>
+
+CLI is for everything else <br>
+
 
 
 
