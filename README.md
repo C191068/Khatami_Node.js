@@ -140,6 +140,10 @@ working with vanilla js application one has acces to window object <br>
 
 In the window object we can get a bunch of useful things <br>
 
+for example we can get a query selector <br>
+
+
+
 
 
 
