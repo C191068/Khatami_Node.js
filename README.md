@@ -100,6 +100,10 @@ for REPL we do the above <br>
 
 in the above the angle bracket means that we are in the REPL <br>
 
+![n2](https://github.com/C191068/Khatami_Node.js/assets/89090776/32a87137-9e12-42c8-9029-bdff4ce623dd)
+
+the first REPL things we have done is that we input our name and output it <br>
+
 
 
 
