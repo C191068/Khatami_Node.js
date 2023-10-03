@@ -61,7 +61,7 @@ it is our responsibility to fix it otherwise our app might have bugs  <br>
 
 but when we build our node app there is no rule that we have to upgrade <br>
 
-to a newer node js version <br>
+to a newer node js version and possibly break our app  <br>
 
 
 
