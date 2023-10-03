@@ -49,6 +49,8 @@ Unlike browser we can access file system <br>
 
 Info about our operating sytem respond to network quest just to name a few <br>
 
+Another major fact about node it is based on version <br>
+
 
  
 
