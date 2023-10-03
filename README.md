@@ -114,6 +114,9 @@ to exit the REPL we typed the above <br>
 
 Now how do we get node to evaluate our code <br>
 
+![n4](https://github.com/C191068/Khatami_Node.js/assets/89090776/f02cbe4a-8691-4d72-a25f-7c43b8e2452e)
+
+for that we have created the above file and folder <br>
 
 
 
