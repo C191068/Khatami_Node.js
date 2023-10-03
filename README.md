@@ -94,6 +94,9 @@ If i have to be perfectly honest REPL is for playing around <br>
 
 CLI is for everything else <br>
 
+![n1](https://github.com/C191068/Khatami_Node.js/assets/89090776/a3d393ad-e734-4cd4-8d09-57474fdd1df4)
+
+for REPL we do the above <br>
 
 
 
