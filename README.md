@@ -152,6 +152,8 @@ and mostl likly our app will crash <br>
 
 there is a concept of global variables <br>
 
+global variables maeans anywhre in our application we can access them <br>
+
 
 
 
