@@ -98,6 +98,8 @@ CLI is for everything else <br>
 
 for REPL we do the above <br>
 
+in the above the angle bracket means that we are in the REPL <br>
+
 
 
 
