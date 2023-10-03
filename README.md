@@ -171,6 +171,23 @@ when we give the above code we get the following output to get the current direc
 
 
 
+```
+setInterval(() => {
+  console.log("My name is Khatami");
+});
+
+```
+
+
+
+when we type the above code we will get the following output about getting at every second continuosly <br>
+
+![n9](https://github.com/C191068/Khatami_Node.js/assets/89090776/0f09d719-5a04-4536-aeda-de1a48bdff89)
+
+
+
+
+
 
 
 
