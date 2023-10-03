@@ -191,6 +191,9 @@ to get the previous command we will press arrow up key <br>
 
 in modules all code will be executed in one file but we will split our code in it  <br>
 
+Otherwise it will literally be insane to jam all code s in one file <br>
+
+
 
 
 
