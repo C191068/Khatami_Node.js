@@ -189,6 +189,8 @@ when we type the above code we will get the following output about getting at ev
 to get the previous command we will press arrow up key <br>
 
 
+in modules all code will be executed in one file <br>
+
 
 
 
