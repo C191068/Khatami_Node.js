@@ -148,6 +148,10 @@ but in node js there is no window because there is no browser <br>
 
 If we try to access window , node will split backthe error <br>
 
+and mostl likly our app will crash <br>
+
+
+
 
 
 
