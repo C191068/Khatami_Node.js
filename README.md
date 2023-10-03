@@ -28,7 +28,12 @@ In extremely simple terms the creator of node Ryan dahl <br>
 ![image](https://github.com/C191068/Khatami_Node.js/assets/89090776/109abdd4-62bc-422a-8908-f4ad77da3b6c)
 
  
+while working with node js we have no access to browser apis , since well they don't simply <br>
+\
+exits in node , there is no browser , there is no DOM ( Document Object Model)  <br>
 
+Document Object Model is a representation of the elements and data within a web document.<br>
+It encompasses the structure and content of the document on the web. The Document Object Model (DOM) serves as a programming interface designed for web documents
  
 
  
