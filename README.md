@@ -15,6 +15,14 @@ In extremely simple terms the creator of node Ryan dahl <br>
 
  Since the moment it was created the node has evoved tremendously <br>
 
+ and where there are many things to like about node <br>
+
+ I particularly enjoy large community around node sinec that tremendously save3s time <br>
+
+ on feature development <br>
+
+ 
+
  
 
 
