@@ -55,6 +55,10 @@ unlike browser app which depend on user browser <br>
 
 our node app depends only on node js version it was built in  <br>
 
+if we built a browser app and if our user's browser does not support it <br>
+
+it is our responsibility to fix it <br>
+
 
 
 
