@@ -157,6 +157,21 @@ global variables maeans anywhre in our application we can access them <br>
 no matter how complex my application gets or whatever i wil have acces to those variables <br>
 
 
+```
+
+console.log(__dirname);
+
+```
+
+
+when we give the above code we get the following output <br>
+
+
+![n8](https://github.com/C191068/Khatami_Node.js/assets/89090776/d0990c21-8b3f-4e65-ad19-309079b50980)
+
+
+
+
 
 
 
