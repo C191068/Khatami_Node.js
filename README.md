@@ -154,6 +154,10 @@ there is a concept of global variables <br>
 
 global variables maeans anywhre in our application we can access them <br>
 
+no matter how complex my application gets or whatever i wil have acces to those variables <br>
+
+
+
 
 
 
