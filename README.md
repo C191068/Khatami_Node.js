@@ -138,6 +138,9 @@ to keep in memory we ill create file in the above way <br>
 working with vanilla js application one has acces to window object <br>
 
 
+In the window object we can get a bunch of useful things <br>
+
+
 
 
 
