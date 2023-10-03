@@ -63,6 +63,8 @@ but when we build our node app there is no rule that we have to upgrade <br>
 
 to a newer node js version and possibly break our app  <br>
 
+we can simply running our node app in the version it was built in <br>
+
 
 
 
