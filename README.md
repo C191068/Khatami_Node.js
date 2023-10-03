@@ -23,7 +23,10 @@ In extremely simple terms the creator of node Ryan dahl <br>
 
  to build full stack apps since both front end and bacxk end are essentially built  <br>
 
- in the same language 
+ in the same language and that language is our beloved javascript <br>
+
+
+ 
 
  
 
