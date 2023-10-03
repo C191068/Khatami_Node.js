@@ -73,6 +73,8 @@ Node js uses common js library for the module
 
 the general idea is exactly the same as ES6 module <br>
 
+that we use browser syntax is a bit different <br>
+
 
 
 
