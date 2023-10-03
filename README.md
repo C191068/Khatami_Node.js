@@ -122,6 +122,12 @@ for that we have created the above file and folder <br>
 
 for output we will do the above <br>
 
+![n6](https://github.com/C191068/Khatami_Node.js/assets/89090776/8248f7c5-e269-4794-86e3-c6eb876e2df5)
+
+change the number and again output <br>
+
+
+
 
  
 
