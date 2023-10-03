@@ -82,6 +82,12 @@ there are two option to download one is 18LTS another is 20 current <br>
 For production app LTS is suggested which stands for Long term support <br>
 
 
+How do we get node ? <br>
+
+For that we have two options <br>
+
+1. REPL = Read Eval Print Loop <br>
+
 
 
 
