@@ -118,6 +118,9 @@ Now how do we get node to evaluate our code <br>
 
 for that we have created the above file and folder <br>
 
+![n5](https://github.com/C191068/Khatami_Node.js/assets/89090776/7361f0e0-35d4-4d6b-84df-010e632270d1)
+
+for output we will do the above <br>
 
 
  
