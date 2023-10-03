@@ -112,6 +112,9 @@ when it comes with serous application we need CLI executable
 
 to exit the REPL we typed the above <br>
 
+Now how do we get node to evaluate our code <br>
+
+
 
 
  
