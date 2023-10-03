@@ -19,7 +19,11 @@ In extremely simple terms the creator of node Ryan dahl <br>
 
  I particularly enjoy large community around node sinec that tremendously save3s time <br>
 
- on feature development <br>
+ on feature development as well as the fact withe help of node it is never been easier <br>
+
+ to build full stack apps since both front end and bacxk end are essentially built  <br>
+
+ in the same language 
 
  
 
