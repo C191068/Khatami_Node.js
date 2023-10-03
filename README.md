@@ -42,7 +42,9 @@ Unlike browser apps that are interactive for example user clicks the button <br>
 or toggles the nav and that sort of things with node we built server side app <br>
 
 our node app wil only consit of pure logic without graphical interface <br>
+ In browsser app we use a bunch of cool things available <br>
 
+ 
 
 
 
