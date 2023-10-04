@@ -194,6 +194,7 @@ in modules all code will be executed in one file but we will split our code in i
 Otherwise it will literally be insane to jam all code s in one file <br>
 
 
+source: https://www.google.com/amp/s/www.geeksforgeeks.org/node-js-modules/amp/
 
 
 
