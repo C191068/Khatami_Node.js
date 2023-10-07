@@ -240,6 +240,8 @@ it tells us that the above export is an object <br>
 
 the way that common js syntax works whatever we put in the export we can access it from anywhere in the application <br>
 
+so it is upto us to set those values in export object <br>
+
 
 
 
