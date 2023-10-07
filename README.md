@@ -233,7 +233,11 @@ we wil see that we have the object and we have some properties <br>
 
 ![n32](https://github.com/C191068/Khatami_Node.js/assets/89090776/5ad28ead-73b0-4eb3-8810-0cd700500143)
 
-the important one is the above <br>
+the important one is the above  white mark export<br>
+
+it tells us that the above export is an object <br>
+
+
 
 
 
