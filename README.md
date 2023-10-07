@@ -196,6 +196,25 @@ Otherwise it will literally be insane to jam all code s in one file <br>
 
 source: https://www.google.com/amp/s/www.geeksforgeeks.org/node-js-modules/amp/
 
+```
+const Ahmed = "Ahmed";
+const Rahim = "Rahim";
+
+const saySalam = (name) => {
+  console.log(`Assalamualikum ${name}`);
+};
+
+saySalam("Khatami");
+saySalam(Ahmed);
+saySalam(Rahim);
+
+```
+
+
+when we run the above code we will get following output <br>
+
+
+![image](https://github.com/C191068/Khatami_Node.js/assets/89090776/111e6938-75b1-42e1-aacf-c7dd3c8ea2fd)
 
 
 
