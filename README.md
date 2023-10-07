@@ -238,6 +238,8 @@ the important one is the above  white mark export<br>
 it tells us that the above export is an object <br>
 
 
+the way that common js syntax works whatever we put in the export we can access it from anywhere in the application <br>
+
 
 
 
