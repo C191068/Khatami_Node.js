@@ -220,6 +220,8 @@ when we run the above code we will get following output <br>
 Modules is encapsulated code and the key here is we are only sharing what we want <br>
 
 
+every file in node is a module <br>
+
 
 
 
