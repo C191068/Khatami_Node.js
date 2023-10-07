@@ -217,6 +217,8 @@ when we run the above code we will get following output <br>
 ![image](https://github.com/C191068/Khatami_Node.js/assets/89090776/111e6938-75b1-42e1-aacf-c7dd3c8ea2fd)
 
 
+Modules is encapsulated code and the key here is we are only sharing what we want <br>
+
 
 
 
