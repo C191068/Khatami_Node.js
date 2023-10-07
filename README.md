@@ -225,6 +225,18 @@ every file in node is a module <br>
 
 
 
+![n31](https://github.com/C191068/Khatami_Node.js/assets/89090776/5af6410a-403d-472e-b568-9613ab7f814c)
+
+
+we wil see that we have the object and we have some properties <br>
+
+
+![n32](https://github.com/C191068/Khatami_Node.js/assets/89090776/5ad28ead-73b0-4eb3-8810-0cd700500143)
+
+the important one is the above <br>
+
+
+
 
 
 
